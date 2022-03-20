@@ -8,6 +8,7 @@ namespace Helloworld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Welcome to Bridgelabz");
+            Console.WriteLine("Remote to local");
             Console.ReadLine();
         }
     }
